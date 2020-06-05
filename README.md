@@ -7,5 +7,5 @@ Some esp32 demos used for the [Retired Technophiles of the Main Line](https://ww
 ## Sample upython files for esp32
 
 - main.py : Just to make sure os library is always loaded
-- blinky.py : Example of simple blinky program
+- blinky.py : Example of simple blinky program, IO LED 2
 - wifi : Example of a connection to wifi
