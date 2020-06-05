@@ -1,6 +1,8 @@
 # esp32-meetup
 
-Some demos used for the "Retired Technophiles of the Main Line" meetup about esp32
+Some esp32 demos used for the [Retired Technophiles of the Main Line](#https://www.meetup.com/Retired-Technophiles-of-the-Main-Line/events/) meetup about esp32
+
+19June2020
 
 ## Files Added
 
